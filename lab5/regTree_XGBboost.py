@@ -71,7 +71,7 @@ def xgboost(X_train, X_test, Y_train, Y_test):
     bst.fit(X_train, Y_train)
     preds = bst.predict(X_test)
 
-    mse = mean_squared_error(preds, Y_test)  # 均分误差
+    mse = mean_squared_error(preds, Y_test)  # 均方误差
     print("xgboost mse:", mse)
 
     '''交叉验证找到n_estimators的最优参数值'''
