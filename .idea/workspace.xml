@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4627fb46-a36e-4637-82cb-3992f7b31080" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab5/regTree_XGBboost.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab5/regTree_XGBboost.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/data/Wholesale customers data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/lab7-DBSCAN.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/lab7-SpectralClustering.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/lab7-kmeans.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/batchnorm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/vgg/tensorflow-vgg16/vgg16-20160129.tfmodel" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/vgg/tensorflow-vgg16/vgg16-20160129.tfmodel.torrent" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +49,7 @@
         <entry file="file://$PROJECT_DIR$/lab6/svm_xgboost_handWritten.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="288">
-              <caret line="108" column="20" lean-forward="true" selection-start-line="108" selection-start-column="20" selection-end-line="108" selection-end-column="20" />
+              <caret line="108" column="20" selection-start-line="108" selection-start-column="20" selection-end-line="108" selection-end-column="20" />
               <folding>
                 <element signature="e#391#409#0" expanded="true" />
               </folding>
@@ -159,8 +165,8 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="2" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1" />
     <option name="width" value="990" />
     <option name="height" value="1080" />
   </component>
@@ -201,7 +207,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ky_cxsj" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -427,6 +433,7 @@
       <workItem from="1557024459859" duration="718000" />
       <workItem from="1557073755426" duration="623000" />
       <workItem from="1557388783220" duration="3092000" />
+      <workItem from="1560000023573" duration="15000" />
     </task>
     <task id="LOCAL-00001" summary="first update">
       <created>1553270292311</created>
@@ -467,7 +474,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="160268000" />
+    <option name="totallyTimeSpent" value="160283000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -479,11 +486,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="2" y="0" width="792" height="864" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.32833788" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.16621985" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.3230563" />
@@ -498,7 +504,7 @@
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" weight="0.19705094" />
       <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49888143" weight="0.0844504" />
-      <window_info anchor="right" x="0" y="0" width="181" height="669" id="Documentation" order="0" sideWeight="0.24908425" side_tool="true" weight="0.35656837" />
+      <window_info anchor="right" x="0" y="0" width="181" height="669" id="Documentation" order="0" sideWeight="0.24908425" side_tool="true" visible="true" weight="0.17493297" />
       <window_info anchor="right" id="Database" order="1" weight="0.32996634" />
       <window_info anchor="right" id="Commander" order="2" weight="0.4" />
       <window_info anchor="right" id="SciView" order="3" sideWeight="0.75091577" weight="0.83042896" />
@@ -773,7 +779,7 @@
     <entry file="file://$PROJECT_DIR$/lab6/svm_xgboost_handWritten.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
-          <caret line="108" column="20" lean-forward="true" selection-start-line="108" selection-start-column="20" selection-end-line="108" selection-end-column="20" />
+          <caret line="108" column="20" selection-start-line="108" selection-start-column="20" selection-end-line="108" selection-end-column="20" />
           <folding>
             <element signature="e#391#409#0" expanded="true" />
           </folding>
